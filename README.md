@@ -1,5 +1,5 @@
 # NetworkUtil
-A simple proof of concept app for getting the utilization of a NIC
+A simple proof of concept app for getting the utilization of a Network Interface Card
 
 ## Usage
 
